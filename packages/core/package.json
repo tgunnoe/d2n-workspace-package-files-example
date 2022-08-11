@@ -1,0 +1,9 @@
+{
+  "name": "@light-wallet/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@cardano-sdk/core": "file:../../cardano-js-sdk-9ca2361c+asset_patch+multiasset/cardano-sdk-core-0.2.0.tgz"
+  }
+}
